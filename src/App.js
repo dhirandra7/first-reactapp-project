@@ -19,9 +19,9 @@ function handlecount(){
       <br/>
       <br/>
 
-      {
+      <p>{
         count
-      }
+      }</p>
       <br/>
       <button onClick={handlecount}>click me</button>
     </div>
