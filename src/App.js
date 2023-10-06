@@ -14,10 +14,15 @@ function handlecount(){
 
   return (
     <div className="App">
-      hello word
+      <h1>i am amity student</h1>
+      <br/>
+      <br/>
+      <br/>
+
       {
         count
       }
+      <br/>
       <button onClick={handlecount}>click me</button>
     </div>
   );
